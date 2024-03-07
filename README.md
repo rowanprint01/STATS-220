@@ -1,6 +1,6 @@
 # Stats 220 - Project 1
 
-## Hello! This repo was made as part of my first project for STATS 220 at the University of Auckland!
+## Hello! This repo was made as part of my first project for STATS 220 at the University of Auckland! 😃
 
 ### The project introduced me to the markup language Markdown which is used to format plain text.
 
